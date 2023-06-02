@@ -15,12 +15,20 @@ The administration of the Tankjuice Store oversees and manages all business acti
 ![](TankJuiceImage/Pic%202.png) 
 
 
-# [Project 2: Amazon Price Scrapper](https://github.com/RonitMalik/BlackFriday_pythonScrapper)
+# [Project 2: MAXIMO Manufacturing and Operation Data architecture](https://github.com/RonitMalik/BlackFriday_pythonScrapper)
 
-This was part of a personal project where a python price scrapper was built in order to track prices for specific items on amazon and then send out email alerts. 
-The way the model works is you add a link to the amazon product and the price you're willing to buy the product at (Target Price) and then you can run the script and it will refresh the script every 24 hours and check the price for the product, as soon as the price of the product reaches your target price the scrapper will send you an email alert. 
+Maximo Manufacturing dashboards save the time it takes to respond to operational issues, and by giving management a better understanding of minute-by-minute operations, they provide crucial information so they can plan a reaction. Common KPIs include: Delivery performance
+Manufacturing lead time, often known as "total cycle time," is the amount of time it takes for an order to go through the production.
+OEE is valuable since it compiles information on output rates, product quality, and machine availability. The business intelligence system powers these dashboards. In order to give KPIs like order intake, warranty costs, delivery schedule achievement, and (of course) cash flow, this collects data from ERP, MES, and other systems.
 
-I have also done an entire walkthrough video on youtube for the amazon price scapper and how you can build one too. [Click Here For Youtube Video](https://www.youtube.com/watch?v=vO668yAX3p8)
+##  Maximo Data Workflow
+![](MAXIMO DAN DASHBOARD/Pic%203.png) 
+##  Maximo Dashboard 
+![](MAXIMO DAN DASHBOARD/Pic%201.png) 
+##  Maximo Report Sheet 
+![](MAXIMO DAN DASHBOARD/Pic%201.png) 
+
+
 
 # [Project 3: Yahoo Finance Web Scrapping](https://github.com/RonitMalik/BlackFriday_pythonScrapper)
 
