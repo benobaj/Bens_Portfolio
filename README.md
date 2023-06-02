@@ -10,7 +10,7 @@ The administration of the Tankjuice Store oversees and manages all business acti
 * Coding Used : VBA, SQL and Google appscript and javascript
 
 ## Overview Of TankkJuice SMT 
-![](TankJuice Image/Screenshot 2023-06-02 at 1.17.16 PM.png) 
+![](TankJuiceImage/Pic%201.png) 
 ## Popular Movie Genres  
 ![](TankJuice Image/Screenshot 2023-06-02 at 1.17.46 PM.png)
 
