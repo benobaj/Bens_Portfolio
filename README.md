@@ -24,9 +24,9 @@ OEE is valuable since it compiles information on output rates, product quality, 
 ##  Maximo Data Workflow
 ![](MAXIMO%20DAN%20DASHBOARD/Pic%203.png) 
 ##  Maximo Dashboard 
-![](MAXIMO DAN DASHBOARD/Pic%201.png) 
+![](MAXIMO%20DAN%20DASHBOARD/Pic%201.png) 
 ##  Maximo Report Sheet 
-![](MAXIMO DAN DASHBOARD/Pic%201.png) 
+![](MAXIMO%20DAN%20DASHBOARD/Pic%202.png) 
 
 
 
