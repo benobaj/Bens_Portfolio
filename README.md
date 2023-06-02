@@ -9,10 +9,10 @@ The administration of the Tankjuice Store oversees and manages all business acti
 * The model uses both; content-based filtering techniques and collaborative filtering techniques. 
 * Coding Used : VBA, SQL and Google appscript and javascript
 
-## Overview Of TankkJuice SMT 
+## Overview Of TankkJuice SMT DashBoard 
 ![](TankJuiceImage/Pic%201.png) 
-## Popular Movie Genres  
-![](TankJuice Image/Screenshot 2023-06-02 at 1.17.46 PM.png)
+## Running Sales and COG Forecaste 
+![](TankJuiceImage/Pic%202.png) 
 
 
 # [Project 2: Amazon Price Scrapper](https://github.com/RonitMalik/BlackFriday_pythonScrapper)
