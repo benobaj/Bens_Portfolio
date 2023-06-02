@@ -7,7 +7,7 @@ The administration of the Tankjuice Store oversees and manages all business acti
 
 * Data was taken from POS systems into the data warehouse 
 * The model uses both; content-based filtering techniques and collaborative filtering techniques. 
-* Coding Used : VBA, SQL and Google appscript and javascript.
+* Coding Used : VBA, SQL and Google appscript and javascript
 
 ## Overview Of TankkJuice SMT 
 ![](TankJuice Image/Screenshot 2023-06-02 at 1.17.16 PM.png) 
