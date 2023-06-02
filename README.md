@@ -1,7 +1,7 @@
 # Bens_Portfolio
 Benjamin Obaje
 
-# [Project 1: Maximo LookerStudio]([https://github.com/RonitMalik/BlackFriday_pythonScrapper](https://lookerstudio.google.com/reporting/e1fbfc58-a0dc-48d3-8b5f-8cf12e61aa23))
+# [Project 1: Maximo LookerStudio]([https://lookerstudio.google.com/reporting/e1fbfc58-a0dc-48d3-8b5f-8cf12e61aa23])
 
 This dashboard provides a real-time visual picture of the manufacturing process in Maximo. Manufacturing dashboards display information and insights on each department's financial situation throughout the course of the year. Obtaining production-related metrics data from the previous shift or day, such as sales and performance relative to goals, are examples of the type of data. The data is now 12 to 24 hours old.  After that, I compile this data into status reports for the directors. The focus is typically on direct expenses and performance relative to the plan. 
 
