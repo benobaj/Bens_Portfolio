@@ -22,7 +22,7 @@ Manufacturing lead time, often known as "total cycle time," is the amount of tim
 OEE is valuable since it compiles information on output rates, product quality, and machine availability. The business intelligence system powers these dashboards. In order to give KPIs like order intake, warranty costs, delivery schedule achievement, and (of course) cash flow, this collects data from ERP, MES, and other systems.
 
 ##  Maximo Data Workflow
-![](MAXIMO DAN DASHBOARD/Pic%203.png) 
+![](MAXIMO%20DAN%20DASHBOARD/Pic%203.png) 
 ##  Maximo Dashboard 
 ![](MAXIMO DAN DASHBOARD/Pic%201.png) 
 ##  Maximo Report Sheet 
