@@ -1,7 +1,7 @@
 # Bens_Portfolio
 Benjamin Obaje
 
-# [Project Energy Consumption ](Energyconsumption/HourlyEnergyConsumption.ipynb)
+# [Project Energy Consumption ](Energyconsumption/HourlyEnergyConsumptionpage.md)
 Description:
 The Python code is designed to analyze and visualize global energy consumption data. It aims to provide insights into the trends and patterns of energy consumption across different regions and energy sources. The code utilizes various libraries and techniques to process and visualize the data effectively.
 
