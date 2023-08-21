@@ -1,6 +1,20 @@
 # Bens_Portfolio
 Benjamin Obaje
 
+# [Project Energy Consumption ](Energyconsumption/HourlyEnergyConsumption.ipynb)
+Description:
+The Python code is designed to analyze and visualize global energy consumption data. It aims to provide insights into the trends and patterns of energy consumption across different regions and energy sources. The code utilizes various libraries and techniques to process and visualize the data effectively.
+
+Key Features:
+
+Data Retrieval and Preparation: The code begins by retrieving energy consumption data from reliable sources, such as international energy agencies or databases. The data is then cleaned and organized for further analysis.
+
+Data Analysis:
+
+Region-wise Analysis: The code categorizes countries into regions (e.g., continents) and calculates the total energy consumption for each region over a specific time period.
+Energy Source Analysis: It analyzes the energy consumption distribution across different sources like fossil fuels (coal, oil, natural gas), renewable sources (solar, wind, hydro), and nuclear energy.
+Trends and Patterns: The code identifies trends and patterns in energy consumption, such as growth rates, changes in consumption over time, and shifts in energy source preferences.
+
 # [Project 1: Maximo LookerStudio](https://lookerstudio.google.com/reporting/e1fbfc58-a0dc-48d3-8b5f-8cf12e61aa23)
 
 This dashboard provides a real-time visual picture of the manufacturing process in Maximo. Manufacturing dashboards display information and insights on each department's financial situation throughout the course of the year. Obtaining production-related metrics data from the previous shift or day, such as sales and performance relative to goals, are examples of the type of data. The data is now 12 to 24 hours old.  After that, I compile this data into status reports for the directors. The focus is typically on direct expenses and performance relative to the plan. 
