@@ -23,7 +23,7 @@ The Python code is designed to analyze and visualize global energy consumption d
 
 Key Features:
 
-Data Retrieval and Preparation: The code begins by retrieving energy consumption data from reliable sources, such as international energy agencies or databases. The data is then cleaned and organized for further analysis.
+Data Retrieval and Preparation: The code begins by retrieving energy consumption data from a reliable sources, international energy agencies and databases. The data is then cleaned and organized for further analysis.
 
 Data Analysis:
 
