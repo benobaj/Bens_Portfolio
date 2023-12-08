@@ -1,21 +1,22 @@
 # Bens_Portfolio
 Benjamin Obaje
 
-Welcome to my Data/Business Analytics Portfolio! Within these pages, you will find a collection of projects and analyses that showcase my expertise and proficiency in handling and deriving insights from data. Whether it's unraveling trends, making informed business decisions, or uncovering valuable insights, this portfolio reflects my dedication to harnessing the power of data to drive strategic outcomes.
+Welcome to my Data/Business Management Portfolio! Within these pages, you will find a collection of projects and analyses that showcase my expertise and proficiency in handling and deriving insights from data. Whether it's unraveling trends, making informed business decisions, or uncovering valuable insights, this portfolio reflects my dedication to harnessing the power of data to drive strategic outcomes.
 
 Portfolio Highlights:
 
 Data Visualization: Explore my visualizations that transform complex data into comprehensible insights. From interactive dashboards to clear infographics, I emphasize the importance of communicating data effectively.
 
-Market Analysis: Delve into my analyses of market trends and consumer behavior. These projects demonstrate my ability to extract actionable insights from data to aid strategic planning.
+Data Quality Enhancement: Led data quality improvement initiatives, identifying and resolving data inconsistencies, duplicates, and missing values.
+Implemented data validation checks and data cleansing procedures, resulting in data accuracy rates exceeding 98%.
 
-Predictive Modeling: Witness the implementation of predictive models that forecast future trends and outcomes. These projects highlight my capability to use advanced analytics for decision-making.
+Database Design and Optimization: Designed and optimized complex databases to efficiently store, manage, and retrieve large volumes of data.
+Utilized indexing, query optimization, and performance tuning techniques, resulting in significant speed improvements.
 
-Business Impact: Discover case studies where my data-driven recommendations led to tangible improvements in operational efficiency, customer engagement, and overall business growth.
+Data Integration and ETL: Successfully integrated data from diverse sources, creating automated ETL (Extract, Transform, Load) processes.
+Ensured seamless data flow between systems, enhancing cross-functional collaboration and data consistency.
 
 Data Cleansing and Transformation: Learn about my meticulous approach to data preprocessing, ensuring that the insights drawn are accurate and reliable.
-
-Statistical Analysis: Engage with projects showcasing my proficiency in using statistical techniques to uncover patterns, correlations, and anomalies in data.
 
 # [Project Energy Consumption ](Energyconsumption/HourlyEnergyConsumptionpage.md)
 Description:
