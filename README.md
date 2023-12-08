@@ -1,3 +1,6 @@
+![My Image](228E86E2-9181-40E6-BD2D-ADA65C2DD508.jpeg)
+
+
 # Bens_Portfolio
 Benjamin Obaje
 
