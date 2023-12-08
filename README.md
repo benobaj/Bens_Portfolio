@@ -1,8 +1,7 @@
 ![My Image](228E86E2-9181-40E6-BD2D-ADA65C2DD508.jpeg)
 
 
-## Bens_Portfolio
-Benjamin Obaje
+# Bens_Portfolio in Data Management and Analytics
 
 Welcome to my Data/Business Management Portfolio! Within these pages, you will find a collection of projects and analyses that showcase my expertise and proficiency in handling and deriving insights from data. Whether it's unraveling trends, making informed business decisions, or uncovering valuable insights, this portfolio reflects my dedication to harnessing the power of data to drive strategic outcomes.
 
