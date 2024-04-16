@@ -1,9 +1,42 @@
 ![My Image](228E86E2-9181-40E6-BD2D-ADA65C2DD508.jpeg)
 
 
-# Bens_Portfolio in Data Management and Analytics
+# Hello, I'm Benjamin Obaje
+<a href="[https://linkedin.com](https://www.linkedin.com/in/ben-obaje-791b50186/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome to my Data/Business Management Portfolio! Within these pages, you will find a collection of projects and analyses that showcase my expertise and proficiency in handling and deriving insights from data. Whether it's unraveling trends, making informed business decisions, or uncovering valuable insights, this portfolio reflects my dedication to harnessing the power of data to drive strategic outcomes.
+[Brief Introduction]
+
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. Accomplished Cybersecurity and Operations Analyst with proven success in enhancing operational efficiency and decision-making you will find a collection of projects and analyses that showcase my expertise and proficiency in handling and deriving insights from data. Whether it's unraveling trends, making informed business decisions, or uncovering valuable insights, this portfolio reflects my dedication to harnessing the power of data to drive strategic outcomes.
+
+## Objective
+
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to be proffecient in operations and cybersecurity analysis.
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| •	Data Analysis & Visualization               | <a href="https://google.com">Detection Lab</a>|
+| •	Compliance Monitoring                       | <a href="https://google.com">Detection Lab</a>|
+| •	Incident response and remediation           | SOC Automation Lab|
+| •	Risk assessment and mitigation              | SOC Automation Lab|
+| •	Data Architecture                           | SOC Automation Lab|
+
+## Tools
+### Data Analytics Tools
+<div>
+    <img src="https://img.shields.io/badge/-MySql-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ExcelVBA-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### Business Intelligence tools
+<div>
+    <img src="https://img.shields.io/badge/-Tableau-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft-Power-BI-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Looker-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
 
 Portfolio Highlights:
 
