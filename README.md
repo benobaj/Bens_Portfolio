@@ -6,7 +6,7 @@
 
 [Brief Introduction]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. Accomplished Cybersecurity and Operations Analyst with proven success in enhancing operational efficiency and decision-making you will find a collection of projects and analyses that showcase my expertise and proficiency in handling and deriving insights from data. Whether it's unraveling trends, making informed business decisions, or uncovering valuable insights, this portfolio reflects my dedication to harnessing the power of data to drive strategic outcomes.
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. Accomplished Cybersecurity and Risk Analyst with proven success in enhancing operational efficiency and decision-making you will find a collection of projects and analyses that showcase my expertise and proficiency in handling and deriving insights from data. Whether it's unraveling trends, making informed business decisions, or uncovering valuable insights, this portfolio reflects my dedication to harnessing the power of data to drive strategic outcomes.
 
 ## Objective
 
