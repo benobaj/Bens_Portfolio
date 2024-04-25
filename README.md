@@ -1,10 +1,9 @@
-![My Image](228E86E2-9181-40E6-BD2D-ADA65C2DD508.jpeg)
+<img src="Resume.png" width="250" alt="My Image">
 
 
 # Hello, I'm Benjamin Obaje
 <a href="[https://linkedin.com](https://www.linkedin.com/in/ben-obaje-791b50186/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. Accomplished Cybersecurity and Risk Analyst with proven success in enhancing operational efficiency and decision-making you will find a collection of projects and analyses that showcase my expertise and proficiency in handling and deriving insights from data. Whether it's unraveling trends, making informed business decisions, or uncovering valuable insights, this portfolio reflects my dedication to harnessing the power of data to drive strategic outcomes.
 
@@ -33,8 +32,23 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Business Intelligence tools
 <div>
     <img src="https://img.shields.io/badge/-Tableau-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft-Power-BI-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft%20Power%20BI-EF3B2D?style=for-the-badge&logo=powerbi&logoColor=white" />
     <img src="https://img.shields.io/badge/-Looker-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+### Business Intelligence tools
+<div>
+    <img src="https://img.shields.io/badge/-Tableau-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft%20Power%20BI-EF3B2D?style=for-the-badge&logo=powerbi&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Looker-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+### Cybersecurity tools
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-4B3263?style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-EF3B2D?style=for-the-badge&logo=Snort&logoColor=white" />
+</p>
+
+
 </div>
 
 
