@@ -5,21 +5,20 @@
 <a href="[https://linkedin.com](https://www.linkedin.com/in/ben-obaje-791b50186/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. Accomplished Cybersecurity and Risk Analyst with proven success in enhancing operational efficiency and decision-making you will find a collection of projects and analyses that showcase my expertise and proficiency in handling and deriving insights from data. Whether it's unraveling trends, making informed business decisions, or uncovering valuable insights, this portfolio reflects my dedication to harnessing the power of data to drive strategic outcomes.
-
+Accomplished Business Intelligence (BI) and Data Insights Analyst with a proven track record of leveraging data to drive business outcomes. Experienced in developing and implementing BI solutions that enhance operational efficiency, improve decision-making speed, and increase profitability. Skilled in data analysis, data visualization, statistical modeling, and collaborating with cross-functional teams. Strong problem-solving and communication skills, with a keen ability to translate complex data insights into actionable recommendations for stakeholders.
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to be proffecient in operations and cybersecurity analysis.
+My journey in computer science has led me to develop a passion for Business Intelligence Analytics, and I am now eager to transition into this field, specifically aiming to be proffecient in operations and Risk analysis.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| •	Data Analysis & Visualization               | <a href="https://google.com">Detection Lab</a>|
-| •	Compliance Monitoring                       | <a href="https://google.com">Detection Lab</a>|
-| •	Incident response and remediation           | SOC Automation Lab|
-| •	Risk assessment and mitigation              | SOC Automation Lab|
-| •	Data Architecture                           | SOC Automation Lab|
+| •	Data Analysis & Visualization               | Tableau |
+| •	Compliance Monitoring                       | Splunk |
+| •	Statistical Analysis & Predictive Modelling | Python Jupyter 
+| •	Risk assessment and mitigation              | PowerBI|
+| •	Data Architecture                           | Excel VBA, Looker Studio & Snowflake|
 
 ## Tools
 ### Data Analytics Tools
